@@ -1,10 +1,7 @@
   library(ggplot2)
   library(tidyverse)
-  #library(metR)
   library(plotly)
-  setwd("~/Dropbox (LSE Statistics)/Elena/R code")
-  #setwd("C:/Users/ElenaStanghellini/Dropbox/Elena/R code")
-  
+
   #Code for beta_x contour
   # x axis is p(U=0|Y=0,X=0) = p_ux0
   # y axis is p(U=0|Y=0, X=1)
